@@ -1,5 +1,5 @@
 # actividadGrupal
 
-Nico
+Salvador Nicolas Cardozo
 Nahuel Marrero
 Milagros Valverde
